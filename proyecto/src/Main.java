@@ -6,6 +6,7 @@ public class Main {
         int nets = 0;
         int sobrants =0;
 
+
         //Inici scanner
         Scanner sc = new Scanner(System.in);
         //Inici programa
