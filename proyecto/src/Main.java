@@ -5,5 +5,9 @@ public class Main {
         int carmels = 0;
         int nets = 0;
         int sobrants =0;
+        //Inici scanner
+        Scanner sc = new Scanner(System.in);
+        //Inici programa
+        carmels = sc.nextInt(); //leemos cantidad caramelos
     }
 }
